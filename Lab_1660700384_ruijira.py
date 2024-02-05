@@ -1,7 +1,5 @@
 #=============================
 # Auther : Rujira Navaen
-# ID 1660700384
-# Section 127E
 # Date 14 Jan 2024
 # Lab Number 1
 #=============================
